@@ -68,7 +68,7 @@ Since OPTIMAEUS is not from the App Store, macOS will ask for permission:
 
 ### Option A: Ubuntu/Debian (.deb)
 
-1. Download the `.deb` file from [Latest Release](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/releases/latest)
+1. Download the `.deb` file from [Latest Release](https://github.com/octavieploye/optimaeus-release/releases/latest)
 2. Open Terminal in the download folder
 3. Run:
 ```bash
@@ -82,7 +82,7 @@ Launch from your application menu or run: `optimaeus`
 
 ### Option B: Fedora/RHEL (.rpm)
 
-1. Download the `.rpm` file from [Latest Release](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/releases/latest)
+1. Download the `.rpm` file from [Latest Release](https://github.com/octavieploye/optimaeus-release/releases/latest)
 2. Open Terminal in the download folder
 3. Run:
 ```bash
@@ -95,7 +95,7 @@ Launch from your application menu or run: `optimaeus`
 
 ### Option C: AppImage (Universal - No Install Needed)
 
-1. Download the `.AppImage` file from [Latest Release](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/releases/latest)
+1. Download the `.AppImage` file from [Latest Release](https://github.com/octavieploye/optimaeus-release/releases/latest)
 2. Open Terminal in the download folder
 3. Run:
 ```bash

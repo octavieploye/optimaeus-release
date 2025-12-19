@@ -2,6 +2,8 @@
 
 **Your children's private AI tutor that runs 100% offline.**
 
+🌍 **Languages:** [English](README.md) | [Français](README.fr.md) | [Español](README.es.md)
+
 OPTIMAEUS is a desktop application designed for families who want their kids to learn with AI assistance while maintaining complete privacy and safety. All AI processing happens on your computer - no data ever leaves your device.
 
 ---
@@ -32,7 +34,7 @@ OPTIMAEUS is a desktop application designed for families who want their kids to 
 | **🐧 Linux (Fedora)** | `OPTIMAEUS_1.0.0_amd64.rpm` | `sudo rpm -i filename.rpm` |
 | **🐧 Linux (Universal)** | `OPTIMAEUS_1.0.0_amd64.AppImage` | Make executable and run |
 
-👉 **[View detailed installation instructions →](INSTALLATION.md)**
+👉 **[View detailed installation instructions →](INSTALLATION.md)** | [Français](INSTALLATION.fr.md) | [Español](INSTALLATION.es.md)
 
 ---
 
@@ -97,7 +99,7 @@ OPTIMAEUS includes a comprehensive 7-layer safety system:
 
 ## ❓ Need Help?
 
-- 📖 **[Installation Guide](INSTALLATION.md)** - Step-by-step setup instructions
+- 📖 **[Installation Guide](INSTALLATION.md)** - Step-by-step setup instructions ([Français](INSTALLATION.fr.md) | [Español](INSTALLATION.es.md))
 - 🐛 **Found a bug?** - Open an issue on GitHub
 - 💬 **Questions?** - Contact us at octavie.ploye@timaeus-consulting.com
 
