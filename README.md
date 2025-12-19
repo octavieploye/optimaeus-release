@@ -107,7 +107,9 @@ OPTIMAEUS includes a comprehensive 7-layer safety system:
 
 ## 📝 License
 
-[Add your license here - e.g., "Proprietary - All rights reserved" or "MIT License"]
+Copyright (c) 2025 OPTIMAEUS / Timaeus Consulting. All rights reserved.
+
+This software is provided for personal, non-commercial use only. See [LICENSE](LICENSE) for full terms.
 
 ---
 
