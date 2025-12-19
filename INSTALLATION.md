@@ -227,7 +227,6 @@ rm -rf ~/.local/share/com.optimaeus.desktop
 ## 🆘 Still Need Help?
 
 Contact us:
-- Email: [your-email]
-- Phone/WhatsApp: [your-number]
+- Email: octavie.ploye@timaeus-consulting.com
 
 We're happy to help you get set up! 😊

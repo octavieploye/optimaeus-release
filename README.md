@@ -74,9 +74,10 @@ OPTIMAEUS is a desktop application designed for families who want their kids to 
 - **Research** - Learn about topics, find information, explore interests
 
 ### For Parents:
-- **Monitor Activity** - See what your kids are learning
-- **Safety Controls** - Content filtering, time limits, access control
-- **Privacy First** - All data stays on your computer
+- **Parent Password Protection** - Secure access to parent settings (Available now)
+- **Monitor Activity** - See what your kids are learning (Coming in future updates)
+- **Safety Controls** - Content filtering, time limits, access control (Coming in future updates)
+- **Privacy First** - All data stays on your computer (Available now)
 
 ---
 
@@ -84,13 +85,13 @@ OPTIMAEUS is a desktop application designed for families who want their kids to 
 
 OPTIMAEUS includes a comprehensive 7-layer safety system:
 
-1. **Content Filtering** - Blocks inappropriate content
-2. **PII Protection** - Prevents sharing personal information
-3. **Jailbreak Detection** - Stops attempts to bypass safety
-4. **Guardian System** - Real-time monitoring and alerts
-5. **COPPA Compliance** - Designed for children's privacy
-6. **Offline Operation** - No data collection or tracking
-7. **Parent Controls** - You're always in control
+1. **Content Filtering** - Blocks inappropriate content (Available now)
+2. **PII Protection** - Prevents sharing personal information (Available now)
+3. **Jailbreak Detection** - Stops attempts to bypass safety (Available now)
+4. **Guardian System** - Real-time monitoring and alerts (Coming in future updates)
+5. **COPPA Compliance** - Designed for children's privacy (Available now)
+6. **Offline Operation** - No data collection or tracking (Available now)
+7. **Parent Controls** - You're always in control (Available now)
 
 ---
 
@@ -98,7 +99,7 @@ OPTIMAEUS includes a comprehensive 7-layer safety system:
 
 - 📖 **[Installation Guide](INSTALLATION.md)** - Step-by-step setup instructions
 - 🐛 **Found a bug?** - Open an issue on GitHub
-- 💬 **Questions?** - Contact us at [your-email]
+- 💬 **Questions?** - Contact us at octavie.ploye@timaeus-consulting.com
 
 ---
 
